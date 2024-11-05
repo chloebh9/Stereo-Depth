@@ -1,6 +1,6 @@
 ## 국민대학교 자율주행컴퓨팅 과제#3-Stereo Depth 
 
-### 1. DQN 코드 작성
+### 1. Stereo Depth Calculation 코드 작성
  - HW3 Stereo Depth Calculation.ipynb 내 빈 코드를 작성할 것
  - 작성된 코드를 github 내 업로드 후, github 주소 첨부
  - 결과물 첨부   
